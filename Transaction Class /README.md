@@ -38,18 +38,18 @@ Example output:
 ---------------------------------
 |         Transaction           |
 ---------------------------------
-| Sender: John                   |
-| Receiver: Alice                |
-| Send Amount: 300               |
+| Sender: John                  |
+| Receiver: Alice               |
+| Send Amount: 300              |
 ---------------------------------
 | Before Transaction -          |
 ---------------------------------
-| Sender Balance: 1300           |
-| Receiver Balance: 200          |
+| Sender Balance: 1300          |
+| Receiver Balance: 200         |
 ---------------------------------
 | After Transaction -           |
 ---------------------------------
-| Sender Balance: 1000           |
-| Receiver Balance: 500          |
+| Sender Balance: 1000          |
+| Receiver Balance: 500         |
 ---------------------------------
 
