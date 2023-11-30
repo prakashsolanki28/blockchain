@@ -36,6 +36,6 @@ The `display` method in the `Transaction` class provides detailed information ab
 Example output:
 
 Here is the output of the transaction:
-![Transaction Output](./Transaction%20Class%20/transaction_output.png)
+![Transaction Output](./transaction_output.png)
 
 
