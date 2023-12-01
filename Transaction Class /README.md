@@ -1,5 +1,8 @@
 # Transaction System
 
+
+## Single Transaction
+
 This simple Python program demonstrates a basic transaction system. It consists of two classes: `Transaction` and `Amount`. The `Transaction` class is used to initiate and display transactions, while the `Amount` class represents an account with a name and balance.
 
 ## Usage
@@ -83,4 +86,6 @@ Example output:
 Here is the output of the transaction:
 ![Transaction Output](./transaction_output.png)
 
+
+## Multiple Transaction
 
